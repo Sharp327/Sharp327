@@ -1,5 +1,5 @@
 
-Hi 👋, I'm Ayku
+Hi 👋
 ==================================
 
 <a href="https://www.github.com/AykuEno" target="_blank" rel="noreferrer"><img
